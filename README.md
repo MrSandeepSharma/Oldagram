@@ -1,6 +1,6 @@
 # Oldagram (Instagram Home Page Clone)
 
-- <a href="https://wearethechamp.netlify.app/">Live Preview</a>
+- <a href="https://oldagraminstaclone.netlify.app/">Live Preview</a>
 
 ## Welcome! 👋
 
@@ -17,4 +17,4 @@ Thanks for viewing my project, this is `my another solo project` in my journey t
 
 ## Preview Image 🎆
 
-![WhatsApp Image 2023-09-02 at 11 50 38 AM(1)](https://github.com/MrSandeepSharma/We-are-the-Champions/assets/142038020/d9ab6ca8-c630-4430-8b3a-52715e0115fd)
+ ![Oldagram — Mozilla Firefox 04-09-2023 15_21_21](https://github.com/MrSandeepSharma/Oldagram/assets/142038020/33399a6b-92f1-41fc-ab17-27e7b17efaaa)
